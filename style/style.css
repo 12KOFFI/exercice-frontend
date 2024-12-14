@@ -1,4 +1,4 @@
-.blog1{
+.container{
     background-color: hsl(212, 45%, 89%);
     width: 80rem;
     height: 35rem;
@@ -6,7 +6,7 @@
     position: relative;
     top: 2rem;
 }
-.blog2{
+.blog1{
     background-color: white;
     width: 15rem;
     height: 25rem;
